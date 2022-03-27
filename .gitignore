@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/ExchangeRates.csv
+data/dst-3.0_16_1_hh_database.csv
