@@ -14,7 +14,7 @@ Project 1. Final Task
      conda env create -f environment.yaml
     ```
 
- 2. Acivate game-env:
+ 2. Acivate pandas-env:
      ```
      conda activate pandas-env
      ```
